@@ -12,16 +12,16 @@ issue_templates:
     description: "معرفی یک دوره، شخص یا موسسه برای بررسی"
     title: "[گزارش]: "
     labels: ["گزارش-جدید", "نیاز-به-بررسی"]
-    body: ./.github/ISSUE_TEMPLATE/new_report.md
+    body: ./ISSUE_TEMPLATE/new_report.md
 
   - name: "💬 درخواست اصلاح یا پاسخگویی"
     description: "اگر نام شما در گزارشی آمده و می‌خواهید پاسخ دهید یا اطلاعات را اصلاح کنید"
     title: "[پاسخ/اصلاح]: "
     labels: ["پاسخ", "بحث"]
-    body: ./.github/ISSUE_TEMPLATE/correction_request.md
+    body: ./ISSUE_TEMPLATE/correction_request.md
 
   - name: "💡 پرسش عمومی یا پیشنهاد"
     description: "اگر سوالی در مورد خود پروژه دارید یا می‌خواهید پیشنهادی برای بهبود آن ارائه دهید"
     title: "[پرسش]: "
     labels: ["سوال"]
-    body: ./.github/ISSUE_TEMPLATE/general_question.md
+    body: ./ISSUE_TEMPLATE/general_question.md
